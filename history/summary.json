@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.telecomm.gob.mx",
     "slug": "telecomm",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "uptime": "41.45%",
+    "uptimeDay": "41.45%",
+    "uptimeWeek": "41.45%",
+    "uptimeMonth": "41.45%",
+    "uptimeYear": "41.45%",
+    "time": 429,
+    "timeDay": 429,
+    "timeWeek": 429,
+    "timeMonth": 429,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2022-02-01": 34
+      "2022-02-01": 36
     }
   }
 ]
