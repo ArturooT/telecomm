@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://telecomm.gob.mx/gobmx/wp-content/uploads/2022/02/logo-telecomm.png
   name: Telecomm-Monitor
   introTitle: "Monitor para portal web institucional **TELECOMM.GOB.MX**"
-  introMessage: Esta es una página de estado de muestra que utiliza datos en **tiempo real** del repositorio de GitHub.data para telecomm. No se requiere servidor, solo GitHub Actions, Issues y Pages.
+  introMessage: Esta es una página de monitoreo de servicio web (apache|nginx) que utiliza datos en **tiempo real** del repositorio de GitHub.data obtenidos del portal de telecomm.gob.mx. No se requiere servidor, solo GitHub Actions, Issues y Pages.
   navbar:
     - title: Estatus
       href: https://arturoot.github.io/telecomm/
