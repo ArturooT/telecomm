@@ -24,19 +24,19 @@
     "url": "https://www.telecomm.gob.mx/portal",
     "icon": "https://favicons.githubusercontent.com/www.telecomm.gob.mx",
     "slug": "telecomm-server-interno",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 825,
-    "timeWeek": 746,
-    "timeMonth": 821,
-    "timeYear": 769,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "88.15%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.94%",
+    "time": 770,
+    "timeDay": 906,
+    "timeWeek": 776,
+    "timeMonth": 826,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2022-09-17": 0
+      "2022-09-17": 171
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 20,
     "timeYear": 24,
     "dailyMinutesDown": {
-      "2022-09-17": 883,
+      "2022-09-17": 1054,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
