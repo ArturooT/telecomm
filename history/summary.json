@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 719,
-    "timeWeek": 724,
-    "timeMonth": 770,
-    "timeYear": 622,
+    "time": 610,
+    "timeDay": 956,
+    "timeWeek": 744,
+    "timeMonth": 767,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2023-01-30": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 769,
-    "timeDay": 777,
-    "timeWeek": 801,
-    "timeMonth": 752,
-    "timeYear": 769,
+    "time": 770,
+    "timeDay": 1282,
+    "timeWeek": 882,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2023-02-01": 38,
       "2023-01-30": 41,
@@ -48,14 +48,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gob.mx.ico",
     "slug": "gobmx",
     "status": "up",
-    "uptime": "42.05%",
+    "uptime": "42.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.05%",
+    "uptimeYear": "42.20%",
     "time": 48,
-    "timeDay": 44,
-    "timeWeek": 48,
+    "timeDay": 64,
+    "timeWeek": 52,
     "timeMonth": 61,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -269,8 +269,7 @@
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
-      "2022-03-05": 1440,
-      "2022-03-04": 199
+      "2022-03-05": 1440
     }
   }
 ]
