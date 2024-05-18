@@ -1,7 +1,7 @@
 url: https://www.telecomm.gob.mx
-status: up
-code: 200
-responseTime: 5457
-lastUpdated: 2024-05-18T20:36:34.054Z
+status: down
+code: 502
+responseTime: 635
+lastUpdated: 2024-05-18T21:34:48.940Z
 startTime: 2022-02-01T17:00:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
