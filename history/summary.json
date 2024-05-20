@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telecomm.gob.mx.ico",
     "slug": "telecomm",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "97.20%",
-    "time": 847,
-    "timeDay": 1637,
-    "timeWeek": 1105,
-    "timeMonth": 869,
+    "time": 846,
+    "timeDay": 745,
+    "timeWeek": 1102,
+    "timeMonth": 871,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-05-06": 402,
@@ -40,8 +40,7 @@
       "2023-05-25": 110,
       "2023-05-24": 36,
       "2023-05-23": 99,
-      "2023-05-22": 965,
-      "2023-05-21": 1440
+      "2023-05-22": 965
     }
   },
   {
@@ -50,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telecomm.gob.mx.ico",
     "slug": "telecomm-server-interno",
     "status": "up",
-    "uptime": "85.29%",
+    "uptime": "85.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "77.82%",
-    "time": 595,
-    "timeDay": 453,
-    "timeWeek": 393,
-    "timeMonth": 407,
-    "timeYear": 520,
+    "uptimeYear": "78.09%",
+    "time": 594,
+    "timeDay": 257,
+    "timeWeek": 373,
+    "timeMonth": 399,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2024-05-06": 396,
       "2024-05-02": 390,
@@ -145,8 +144,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 1440
+      "2023-05-22": 1440
     }
   },
   {
@@ -155,16 +153,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gob.mx.ico",
     "slug": "gobmx",
     "status": "up",
-    "uptime": "73.89%",
+    "uptime": "73.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 138,
-    "timeWeek": 77,
-    "timeMonth": 96,
-    "timeYear": 131,
+    "timeDay": 68,
+    "timeWeek": 78,
+    "timeMonth": 95,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   }
 ]
