@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "97.70%",
-    "time": 847,
-    "timeDay": 1025,
-    "timeWeek": 1122,
-    "timeMonth": 865,
-    "timeYear": 853,
+    "uptimeYear": "97.71%",
+    "time": 849,
+    "timeDay": 1735,
+    "timeWeek": 1203,
+    "timeMonth": 879,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2024-05-06": 402,
       "2024-05-02": 431,
@@ -36,8 +36,7 @@
       "2023-06-05": 938,
       "2023-06-04": 484,
       "2023-05-31": 34,
-      "2023-05-29": 473,
-      "2023-05-25": 110
+      "2023-05-29": 473
     }
   },
   {
@@ -46,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telecomm.gob.mx.ico",
     "slug": "telecomm-server-interno",
     "status": "up",
-    "uptime": "85.37%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "79.10%",
+    "uptime": "85.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "79.19%",
     "time": 589,
-    "timeDay": 356,
-    "timeWeek": 400,
-    "timeMonth": 392,
+    "timeDay": 386,
+    "timeWeek": 406,
+    "timeMonth": 389,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-05-23": 8,
       "2024-05-06": 396,
       "2024-05-02": 390,
       "2024-05-01": 572,
@@ -138,8 +136,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -148,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gob.mx.ico",
     "slug": "gobmx",
     "status": "up",
-    "uptime": "74.04%",
+    "uptime": "74.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 80,
-    "timeWeek": 87,
+    "timeDay": 79,
+    "timeWeek": 90,
     "timeMonth": 96,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   }
 ]
