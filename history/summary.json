@@ -11,8 +11,8 @@
     "uptimeMonth": "94.35%",
     "uptimeYear": "97.80%",
     "time": 872,
-    "timeDay": 622,
-    "timeWeek": 709,
+    "timeDay": 575,
+    "timeWeek": 680,
     "timeMonth": 1257,
     "timeYear": 840,
     "dailyMinutesDown": {
@@ -44,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telecomm.gob.mx.ico",
     "slug": "telecomm-server-interno",
     "status": "up",
-    "uptime": "86.26%",
+    "uptime": "86.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.35%",
-    "uptimeYear": "96.51%",
+    "uptimeYear": "96.78%",
     "time": 602,
-    "timeDay": 395,
-    "timeWeek": 392,
-    "timeMonth": 1332,
+    "timeDay": 429,
+    "timeWeek": 395,
+    "timeMonth": 1330,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2024-07-18": 362,
@@ -76,8 +76,7 @@
       "2023-09-20": 38,
       "2023-09-14": 115,
       "2023-08-01": 1150,
-      "2023-07-31": 1440,
-      "2023-07-30": 1440
+      "2023-07-31": 1440
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gob.mx.ico",
     "slug": "gobmx",
     "status": "up",
-    "uptime": "75.98%",
+    "uptime": "76.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 62,
+    "timeDay": 59,
     "timeWeek": 66,
-    "timeMonth": 71,
+    "timeMonth": 72,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }
